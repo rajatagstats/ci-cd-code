@@ -1,2 +1,2 @@
 # cicd-demo
-CICD (Continuous Integration Continuous Deployment) Demo 
+CICD (Continuous Integration Continuous Deployment) demo 
